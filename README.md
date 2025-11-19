@@ -32,6 +32,14 @@
 
 
 
+## 🩸 Actividad 01 – ejercicio guiado con swing
+
+
+| Módulo | Archivo |
+|--------|----------|
+| Implementación | [ejercicioGuiadoSwing.pdf](ejercicioGuiadoSwing.pdf) |
+
+
 ## 🕶 Autor 
 
 **Rey Gerardo Avalos Mellado**  
