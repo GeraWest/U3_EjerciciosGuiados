@@ -32,12 +32,12 @@
 
 
 
-## 🩸 Actividad 01 – ejercicio guiado con swing
+## 🩸 Actividad 02 – Concepto de arboles
 
 
 | Módulo | Archivo |
 |--------|----------|
-| Implementación | [ejercicioGuiadoSwing.pdf](ejercicioGuiadoSwing.pdf) |
+| Implementación | [arboles_AvalosMelladoReyGerardo.pdf](arboles_AvalosMelladoReyGerardo.pdf) |
 
 
 ## 🕶 Autor 
