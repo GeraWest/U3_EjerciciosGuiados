@@ -46,9 +46,9 @@
 
 | Módulo | Archivo |
 |--------|----------|
-| Implementación | [arboles_AvalosMelladoReyGerardo.pdf](arboles_AvalosMelladoReyGerardo.pdf) |
-| Implementación | [arboles_AvalosMelladoReyGerardo.pdf](arboles_AvalosMelladoReyGerardo.pdf) |
-| Implementación | [arboles_AvalosMelladoReyGerardo.pdf](arboles_AvalosMelladoReyGerardo.pdf) |
+| Implementación | [nodoArbol](nodoArbol) |
+| Implementación | [arbolBinario](arbolBinario) |
+| Implementación | [pruebaArbol](pruebaArbol) |
 
 
 
