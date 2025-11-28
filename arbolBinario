@@ -1,0 +1,48 @@
+/**
+ * Materia: Estructura de Datos - Unidad 3
+ * Nombre: Rey Gerardo Avalos Mellado
+ * Fecha: Martes 25 de noviembre de 2025
+ * Grupo: GTID0141
+ */
+
+package arbolbinario;
+
+public class ArbolBinario {
+
+    private NodoArbol raiz;
+
+    public ArbolBinario() {
+        this.raiz = null;
+    }
+
+    // Inserta un valor en el árbol
+    public void insertar(int valor) {
+        this.raiz = insertarRecursivo(this.raiz, valor);
+    }
+
+    private NodoArbol insertarRecursivo(NodoArbol actual, int valor) {
+        if (actual == null) return new NodoArbol(valor);
+
+        if (valor < actual.getDato()) {
+            actual.hijoIzquierdo = insertarRecursivo(actual.hijoIzquierdo, valor);
+        } else if (valor > actual.getDato()) {
+            actual.hijoDerecho = insertarRecursivo(actual.hijoDerecho, valor);
+        }
+        return actual;
+    }
+
+    // Recorrido Inorden
+    public void recorrerInorden() {
+        System.out.print("Inorden: ");
+        recorrerInordenRecursivo(this.raiz);
+        System.out.println();
+    }
+
+    private void recorrerInordenRecursivo(NodoArbol nodo) {
+        if (nodo != null) {
+            recorrerInordenRecursivo(nodo.hijoIzquierdo);
+            System.out.print(nodo.getDato() + " ");
+            recorrerInordenRecursivo(nodo.hijoDerecho);
+        }
+    }
+}
