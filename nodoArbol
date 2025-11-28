@@ -1,0 +1,31 @@
+/**
+ * NOMBRE: Avalos Mellado Rey Gerardo
+ * GRUPO: GTID0141
+ */
+package ejerguiadosuni3;
+
+/**
+ *
+ * @author Rey Gerardo Avalos Mellado
+ */
+public class NodoArbol {
+        private int dato;  
+     
+    public NodoArbol hijoIzquierdo; 
+    public NodoArbol hijoDerecho; 
+ 
+    public NodoArbol(int valor) { 
+        this.dato = valor; 
+        this.hijoIzquierdo = null; 
+        this.hijoDerecho = null; 
+    } 
+    // Getter para el dato 
+    public int getDato() { 
+        return dato; 
+    } 
+ 
+    // Setter para modificar el dato (Si fuera necesario) 
+    public void setDato(int nuevoDato) { 
+        this.dato = nuevoDato; 
+    } 
+}
