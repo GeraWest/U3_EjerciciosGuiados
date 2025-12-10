@@ -52,10 +52,18 @@
 
 
 
+## 🩸 Actividad 04 – Nearpods
+
+
 | Tipo | Archivo |
 |------|---------|
 | PDF NEARPOD | [DiccionariosAvalosMelladoReyGerardoU3.pdf](DiccionariosAvalosMelladoReyGerardoU3.pdf) |
 | PDF NEARPOD | [conjuntoAvalosMelladoReyGerardo.pdf](conjuntoAvalosMelladoReyGerardo.pdf) |
+
+
+## 🩸 Actividad 05 – Mapa Mental
+
+
 
 
 
