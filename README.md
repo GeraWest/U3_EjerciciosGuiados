@@ -52,6 +52,12 @@
 
 
 
+| Tipo | Archivo |
+|------|---------|
+| PDF NEARPOD | [DiccionariosAvalosMelladoReyGerardoU3.pdf](DiccionariosAvalosMelladoReyGerardoU3.pdf) |
+| PDF NEARPOD | [conjuntoAvalosMelladoReyGerardo.pdf](conjuntoAvalosMelladoReyGerardo.pdf) |
+
+
 
 ## 🕶 Autor 
 
