@@ -61,7 +61,22 @@
 | PDF NEARPOD | [conjuntoAvalosMelladoReyGerardo.pdf](conjuntoAvalosMelladoReyGerardo.pdf) |
 
 
+
+## 🩸 Actividad 06 – Ejemplos de pruebas en clase
+
+
+| Tipo | Archivo |
+|------|---------|
+| PDF | [Ejemplos de Prueba para BST.pdf](Ejemplos%20de%20Prueba%20para%20BST.pdf) |
+
+
+
 ## 🩸 Actividad 05 – Mapa Mental
+
+
+| Tipo | Archivo |
+|------|---------|
+| PDF | [MapaMental.pdf](MapaMental.pdf) |
 
 
 
