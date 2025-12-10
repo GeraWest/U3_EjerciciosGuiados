@@ -62,7 +62,7 @@
 
 
 
-## 🩸 Actividad 06 – Ejemplos de pruebas en clase
+## 🩸 Actividad 05 – Ejemplos de pruebas en clase
 
 
 | Tipo | Archivo |
@@ -71,7 +71,7 @@
 
 
 
-## 🩸 Actividad 05 – Mapa Mental
+## 🩸 Actividad 06 – Mapa Mental
 
 
 | Tipo | Archivo |
